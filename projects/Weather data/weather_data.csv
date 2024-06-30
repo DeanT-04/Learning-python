@@ -1,0 +1,6 @@
+city,temperature,condition,humidity,timestamp
+New York,27.63°C,overcast clouds,76%,2024-06-30 17:25:52
+London,18.9°C,broken clouds,56%,2024-06-30 17:25:52
+Tokyo,26.45°C,heavy intensity rain,83%,2024-06-30 17:25:52
+Sydney,7.07°C,broken clouds,84%,2024-06-30 17:25:52
+Moscow,28.5°C,broken clouds,45%,2024-06-30 17:25:52
